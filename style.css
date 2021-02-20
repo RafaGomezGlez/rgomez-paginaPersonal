@@ -1,0 +1,32 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	background: #0000FF
+}
+p {
+	color : red;
+	letter-spacing: 0.5em;
+	word-spacing: 2em;
+	line-height: 1.5;
+	text-align: center;
+}
+a {
+	color : blue;
+}
+h1 {
+	color: yellow;
+	background-color: blue;
+	font-size:8em;
+}
+h2 {
+	font-size:5em;
+}
+strong{
+	font-style: italic;
+	text-transform: uppercase;
+}
+table{
+	background-color: #ccc;
+}
+
